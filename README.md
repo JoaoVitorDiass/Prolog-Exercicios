@@ -36,3 +36,7 @@ Para executar os programas, você pode usar o interpretador **SWI-Prolog** local
    ```bash
    swipl -s nome_do_arquivo.pl
    ```
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
